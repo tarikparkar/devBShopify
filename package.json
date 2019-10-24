@@ -1,0 +1,23 @@
+{
+  "name": "devBShopify",
+  "version": "1.0.0",
+  "description": "sample app for shopify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarikparkar/devBShopify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarikparkar/devBShopify/issues"
+  },
+  "homepage": "https://github.com/tarikparkar/devBShopify#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
